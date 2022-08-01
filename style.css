@@ -1,0 +1,32 @@
+.note{
+    font-size: 15px;
+    color: black;
+}
+.body{
+    background-size: cover;
+}
+.btn btn-warning heading{
+    font-size: 30px;
+}
+.play_button{
+    width: 130px;
+    font-size: 22px;
+}
+.pause_button{
+    width: 130px;
+    font-size: 22px;
+}
+.Stop_button{
+    width: 130px;
+    font-size: 22px;
+}
+.next_music{
+    width: 130px;
+    font-size: 22px;
+}
+canvas{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 50px;
+}
